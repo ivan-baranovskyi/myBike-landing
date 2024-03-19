@@ -1,0 +1,2 @@
+var e=document.querySelector(".page"),t=e.querySelector(".top-bar__icons-menu"),n=e.querySelector(".menu__content-top-close");t.addEventListener("click",function(t){t.preventDefault(),e.classList.toggle("page--menu-active")}),n.addEventListener("click",function(t){t.preventDefault(),e.classList.toggle("page--menu-active")}),document.querySelector(".contacts").querySelector(".contact").addEventListener("submit",function(e){e.preventDefault()});
+//# sourceMappingURL=index.bd9d42d7.js.map
